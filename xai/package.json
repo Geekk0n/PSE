@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "xai",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "analyze": "nuxt build --analyze",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "devDependencies": {},
+    "dependencies": {
+        "@nuxt/types": "^2.15.6",
+        "@nuxt/typescript-build": "^2.1.0",
+        "@nuxtjs/vuetify": "^1.11.3",
+        "nuxt": "^2.15.6"
+    }
+}
