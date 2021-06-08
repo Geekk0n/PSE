@@ -3,7 +3,7 @@ export default {
     srcDir: 'resources/nuxt/',
 
     head: {
-        title: 'pantr.io Comestibles Management Solution',
+        title: 'Webapp for evaluating XAI',
         meta: [
             {charset: 'utf-8'},
             {name: 'viewport', content: 'width=device-width, initial-scale=1'},
