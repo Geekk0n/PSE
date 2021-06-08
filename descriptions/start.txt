@@ -1,0 +1,21 @@
+1.Klone das Repo in einen Ordner
+2.Eigentlich müsstet ihr das Venv nur mit
+    PSE\Scripts\activate.bat
+    starten ansonsten müsst ihr halt nochmal eins anlegen
+3.Installiert am besten schonmal Flask mit
+    pip install flask
+    (ist zwar noch nichts damit drin aber dann habt ihrs)
+4.Geht in den Ordner xai (einfach mit cd xai)
+5.Dann müsst ihr nuxt einmal da installieren 
+  (Die sind nicht im Git weil die unnötig riesig sind)
+  npm install nuxt
+6. Dann auch noch einmal alle Dependecies runterladen
+  npm install @nuxt/types @nuxt/typescript-build @nuxtjs/vuetify @types/node vue-class-component vue-property-decorator vuex-module-decorators
+7.Zum Starten einfach in der Konsole in den Ordner /PSE/xai/ navigieren
+  und dann einmal 
+  npm run dev
+  ausführen
+8.Dann einfach im Browser unter
+  localhost:3000
+  dort ist dann die Seite
+(Die hat auch Hotreload also bei Änderungen müsst ihr nicht immer npm run dev machen)
